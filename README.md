@@ -3,6 +3,21 @@
 |       Topic Description        |                   Date                     |
 | ------------------------------ | ------------------------------------------ |
 |ATM MANAGEMENT SYSTEM DATABASE  |                02/07/2023                  |
+##Tools
+
+1. PostGreSQL
+
+2. Draw.io
+
+3. replit
+
+4. AWS
+
+5. SQL
+
+6. Python
+
+7. Discord
 
 
 
